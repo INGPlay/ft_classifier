@@ -1,6 +1,6 @@
 # ft_classifier
 - FastText를 활용한 딥러닝 분류기입니다.
-
+![ex_screenshot](./image/Akzil_Classifier.png)
 ## data
 ### binary_classifier.ipynb
 - 2runo/Curse-detection-data
